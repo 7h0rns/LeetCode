@@ -2,7 +2,7 @@ package case40;
 
 
 /**
- * @author Jing_Xiaowei
+ * @author 7h0rns_J1ng
  * @create 2019-05-21 19:46
  *
  * 题目:将一个正整数分解质因数。例如:输入90,打印出90=2*3*3*5。 程序分析:对n进行分解质因数，

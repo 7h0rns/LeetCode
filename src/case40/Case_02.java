@@ -1,7 +1,7 @@
 package case40;
 
 /**
- * @author Jing_Xiaowei
+ * @author 7h0rns_J1ng
  * @create 2019-05-21 17:04
  *
  * 【程序2】 题目:判断101-200之间有多少个素数，并输出所有素数。
